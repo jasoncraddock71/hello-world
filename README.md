@@ -1,3 +1,3 @@
 # hello-world
 Just a newbie
-Going through the tutorial and I am chaning the README file.  yay.
+Going through the tutorial and I am changing the README file.  yay.
